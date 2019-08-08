@@ -8,11 +8,13 @@ end
 end
 
 def display_card_total
-  # code #display_card_total here
+  when "accepts one argument, the card total" do
 end
 
 def prompt_user
-  # code #prompt_user here
+  when "gives instructions for hitting or staying" do
+    hit = give_user_a_card
+    stay = no_more_cards
 end
 
 def get_user_input
