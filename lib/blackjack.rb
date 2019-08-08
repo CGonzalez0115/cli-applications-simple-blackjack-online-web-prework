@@ -8,7 +8,7 @@ end
 end
 
 def display_card_total
-  when "accepts one argument, the card total" do
+when "shows the sum of user's cards" do
 end
 
 def prompt_user
@@ -18,23 +18,28 @@ def prompt_user
 end
 
 def get_user_input
-  # code #get_user_input here
+  it "returns the value of a `gets.chomp` method" do
 end
 
 def end_game
-  # code #end_game here
+  when "prints apology, card total, and thank you message" do
+  when "card total is over 21, puts 'Sorry, you lose '"
+  when "card total is under or equal to 21, puts 'You win!'"
+
 end
 
 def initial_round
-  # code #initial_round here
+  when "calls on #deal_card twice and returns the sum" do
+
 end
 
 def hit?
-  # code hit? here
+  when "calls on #prompt_user then #get_user_input" do
 end
 
 def invalid_command
-  # code invalid_command here
+  when "prints 'Please enter a valid command' when called" do
+
 end
 
 #####################################################
