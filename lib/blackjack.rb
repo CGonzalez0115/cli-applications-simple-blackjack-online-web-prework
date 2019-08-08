@@ -1,6 +1,6 @@
 def welcome
   when "prints a welcome message to screen" do
-    
+
 end
 
  def deal_card
@@ -42,4 +42,3 @@ end
 def runner
   # code runner here
 end
-    
