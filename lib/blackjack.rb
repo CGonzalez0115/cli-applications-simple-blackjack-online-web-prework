@@ -47,5 +47,5 @@ end
 #####################################################
 
 def runner
-  # code runner here
+  when "continues game play until user loses" do
 end
