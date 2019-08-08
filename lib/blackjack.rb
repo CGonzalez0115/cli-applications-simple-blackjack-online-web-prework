@@ -1,9 +1,10 @@
 def welcome
-  # code #welcome here
+  when "prints a welcome message to screen" do
+    
 end
 
-def deal_card
-  # code #deal_card here
+ def deal_card
+  when "generates a random number between 1-11" do
 end
 
 def display_card_total
